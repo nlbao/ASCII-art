@@ -1,2 +1,2 @@
 # ASCII-art
-Collections of ASCII images
+Collection of ASCII images
